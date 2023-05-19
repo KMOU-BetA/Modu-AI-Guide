@@ -1,0 +1,9 @@
+# 경진대회를 나갔을 떄,
+
+## 간단한 workflow
+1. 베이스라인 코드 돌리기(베이스라인 코드가 주어진다면)
+2. 문제 정의
+3. Preprocessing 및 EDA
+4. Modeling 및 Train
+5. Predict
+6. Ensemble 및 Stacking
